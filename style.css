@@ -40,9 +40,7 @@ button:hover{
     border-color: orange;
     color: orange;
 }
-.navbar{
-    height: 80px;
-}
+
 .card1{
     border-radius: 25px;
     background-color: rgb(226, 222, 214);
