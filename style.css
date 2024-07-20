@@ -9,6 +9,9 @@
     font-weight: bold;
    
 }
+.navbar{
+    height:80px;
+}
 
 .nav-link{
     font-weight: bold;
